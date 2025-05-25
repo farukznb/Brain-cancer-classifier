@@ -1,5 +1,5 @@
 streamlit==1.36.0
-torch==2.3.0
+torch==2.5.1  # Latest version with potential Python 3.13 support as of May 2025
 torchvision==0.18.0
 tensorflow==2.16.1
 pillow==10.3.0
